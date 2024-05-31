@@ -4,8 +4,8 @@
 PROJECT_DIR="user_manager"
 NETWORK_NAME="host"
 #NETWORK_SUBNET="101.0.0.0/24"
-IMAGE_NAME="awm-v2-user_manager"
-CONTAINER_NAME="awm-v2-user_manager"
+IMAGE_NAME="awm-v2-user-manager"
+CONTAINER_NAME="awm-v2-user-manager"
 #CONTAINER_IP="101.0.0.2"
 
 # Step 1: Java Build
